@@ -16,7 +16,4 @@ Moldavian National Delight
 Moldavian national soup *(It's sour..)*
 ### 🧈 Mamaliga
 Kind of porridge, made of cornmeal and served with onions.
-### 🥬 Cabbage Rolls
-Cabbage wrapped with rice and meat *(yup)*
-
 
