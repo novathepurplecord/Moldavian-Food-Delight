@@ -1,3 +1,6 @@
+
+# WIP (I didnt even add mod to modrinth and made a fabric ver)
+
 # About
 Moldavian National Delight
 
